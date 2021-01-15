@@ -8,6 +8,6 @@ Our team consists of:
 <li>Project Manager</li>
 <li>Front-end Web Developer</li>
 <li>Back-end Web Developer</li>
-<li>Motion/3D Artist</li>\
+<li>Motion/3D Artist</li>
 <li>Graphic Designer</li>
 </ol>
